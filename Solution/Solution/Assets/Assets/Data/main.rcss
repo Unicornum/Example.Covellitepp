@@ -1,0 +1,28 @@
+
+body {
+  display: block;
+  background-color: green;
+  width: 100%;
+  height: 100%;
+}
+
+.BodyRed {
+  display: block;
+  background-color: red;
+  width: 100%;
+  height: 100%;
+}
+
+.BodyBlue {
+  display: block;
+  background-color: blue;
+  width: 100%;
+  height: 100%;
+}
+
+.BodyGreen {
+  display: block;
+  background-color: green;
+  width: 100%;
+  height: 100%;
+}

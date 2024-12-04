@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- ======================================== -->
+  <!-- This is an automatically generated file. -->
+  <!--     All changes will be overwritten.     -->
+  <!-- ======================================== -->
+  <string name="CompanyName">UnicornumVerum</string>
+  <string name="FileDescription">Пример использования фреймворка Covellite++</string>
+  <string name="FileVersion">Version: 0.0.0 Revision: 0 Platform: ARM64 Build: 23:07 01.12.2024</string>
+  <string name="FileVersionShort">0.0.0.0 ARM64</string>
+  <string name="LegalCopyright">© UnicornumVerum 2024 (unicornum.verum@gmail.ru)</string>
+  <string name="ProductName">Example Covellite++</string>
+  <string name="ApplicationName">Example Covellite++</string>
+  <string name="ProductVersion">Version: 0.0.0 Revision: 0 Platform: ARM64 Build: 23:07 01.12.2024</string>
+  <string name="ProductVersionYear">0.0.0.2024</string>
+  <string name="ProductVersionMajor"/>
+  <string name="ProductVersionMinor"/>
+  <string name="ProductVersionService"/>
+  <string name="ProductRevision"/>
+</resources>
