@@ -1,3 +1,4 @@
+
 # Covellite++ example
 
 Базовый каркас приложения на базе [Covellite++](https://github.com/Unicornum/Covellitepp.git).
@@ -7,12 +8,12 @@
 пример, демонстрирующий все возможности Covellite++, есть в репозитории самого
 фреймворка.
 
-> Для сборки используется Visual Studio 2019 и [следующие](.\Solution\SdkVersions.txt)
+> Для сборки используется Visual Studio 2022 и [следующие](Solution\SdkVersions.txt)
 > версии инструментов Android.
 
 #### Подключение Covellite++ SDK
 
-- Скачать [Covellite++ SDK](https://github.com/Unicornum/Covellitepp/releases/tag/v2.3.0.1).
+- Скачать [Covellite++ SDK](https://github.com/Unicornum/Covellitepp/releases/tag/v2.3.0.1-vs2022).
 - Распаковать архив (рекомендуется структура папок вида C:\\SDK\\Covellite++\\v2.3.0.1).
 - В этой папке выполнить cmd команду
 ```
@@ -22,7 +23,7 @@ setx UNICORNUM_COVELLITEPP_SDK_V2301 %CD%
 > Для обновления версии Covellite++ SDK следует скачать нужную версию,
 > выполнить для нее указанную процедуру и заменить 
 > UNICORNUM_COVELLITEPP_SDK_V2301 в файле Directory.Build.targets (находится
-> в корне решения, рядом с .sln файлом) на макрос новой версии.
+> в папке Solution) на макрос новой версии.
 
 ### Проекты
 
@@ -41,7 +42,7 @@ setx UNICORNUM_COVELLITEPP_SDK_V2301 %CD%
 Запуск программы изменения настроек приложения примера.
 
 > Только для Windows приложения; параметры для редактирования станут доступны
-> после первого запуска программы.
+> после первого запуска основной программы.
 
 #### Assets
 

@@ -1,4 +1,0 @@
-<Project>
-  <Import Project="$(UNICORNUM_COVELLITEPP_SDK_V2301)\Alicorn\Alicorn.props" />
-  <Import Project="$(UNICORNUM_COVELLITEPP_SDK_V2301)\Covellite\Covellite.props" />
-</Project>
