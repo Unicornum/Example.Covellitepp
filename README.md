@@ -8,7 +8,7 @@
 пример, демонстрирующий все возможности Covellite++, есть в репозитории самого
 фреймворка.
 
-> Для сборки используется Visual Studio 2022 и [следующие](Solution\SdkVersions.txt)
+> Для сборки используется Visual Studio 2022 и [следующие](Solution/SdkVersions.txt)
 > версии инструментов Android.
 
 #### Подключение Covellite++ SDK
